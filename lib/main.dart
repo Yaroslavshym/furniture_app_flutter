@@ -70,7 +70,7 @@ class MyApp extends StatelessWidget {
             builder: (context) => const MenuPage(),
           );
         },
-        initialRoute: '/IntroPage',
+        initialRoute: '/MenuPage',
       ),
     );
   }
